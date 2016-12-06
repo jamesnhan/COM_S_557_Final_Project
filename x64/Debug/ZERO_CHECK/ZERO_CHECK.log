@@ -1,0 +1,4 @@
+﻿  Checking Build System
+CUSTOMBUILD : CMake error : The source directory "C:/Users/hero-/Documents/HCI-557-CG-master/26_Picking" does not appear to contain CMakeLists.txt.
+  CMake is re-running because C:/Users/hero-/Documents/HCI-557-CG-master/26_Picking/CMakeFiles/generate.stamp dependency file is missing.
+  Specify --help for usage, or press the help button on the CMake GUI.

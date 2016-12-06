@@ -1,0 +1,11 @@
+obj dolphin.obj
+scale 10.0 10.0 10.0
+lights
+	sun
+end 
+material
+	0.8 0.8 0.8
+	0.8 0.8 0.8
+	0.1 0.1 0.1
+	12.0
+	1.0

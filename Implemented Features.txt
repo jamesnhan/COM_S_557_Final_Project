@@ -1,0 +1,40 @@
+Implemented Features:
+
+Camera
+ - Mouse Look
+ - WASD Movement
+ - Raycasting Movement Along Surfaces
+
+Lights
+ - Multiple Light Source Shaders
+ - Spot Lights
+ - Point Lights
+ - Directional Lights
+ - Material Properties
+  - Bump Map for Specular Highlights
+ - Triggered Flashlight with Mouse Click
+ - Colored Light Source
+  - Simulates Torchlight
+ - Gamma Correction
+
+Models
+ - OBJ Model Loader
+  - Loads:
+   - Diffuse Maps
+   - Normal Maps
+   - Binormal Maps
+   - Tangent Maps
+   - Specular Maps
+   - Height Maps
+   - Shininess
+   - Opacity
+  - Supports Multiple Meshes
+  - Multiple Texture Support
+
+Animation:
+ - Triggered Animations Based on FOV
+ - Animation Blending
+ - Skeleton/Armature Based Keyframes
+
+Environment:
+ - Cube Map Support
